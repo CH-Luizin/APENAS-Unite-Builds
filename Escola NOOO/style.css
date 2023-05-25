@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: "Mukta";
+}
+
 .cabeçalho {
     background-color: #E17426;
     color: white;
@@ -18,38 +22,68 @@
 .cabeçalho-lista-item1 {
     display: inline-block;
     margin: 0 45px;
-    font-size: 30px;
+    font-size: 33px;
     padding: 33px 0;
+    background-color: #E17426;
 }
 
 .cabeçalho-lista-item2 {
     display: inline-block;
     margin: 0 45px;
-    font-size: 30px;
+    font-size: 33px;
     padding: 33px 0;
+    background-color: #E17426;
 }
 
 .cabeçalho-lista-item3 {
     display: inline-block;
     margin: 0 45px;
-    font-size: 30px;
+    font-size: 33px;
     padding: 33px 0;
+    background-color: #E17426;
 }
 
 .cabeçalho-lista-item4 {
     display: inline-block;
     margin: 0 45px;
-    font-size: 30px;
+    font-size: 33px;
     padding: 33px 0;
+    background-color: #E17426;
+
 }
 
 .descrição {
+    background-color: #7C2CCC;
+    display: block;
+}
+
+.descrição-texto1 {
     background-color: #7C2CCC;
     color: white;
     display: block;
     width: 25%;
     align-items: center;
-    padding: 20px 0;
-    font-size: 19px;
-    margin: 16px;
+    font-size: 19.2px;
+    margin: 16px 10px;
 }
+
+.descrição-texto2 {
+    background-color: #7C2CCC;
+    color: white;
+    display: block;
+    width: 25%;
+    align-items: center;
+    font-size: 19.2px;
+    margin: 16px 10px;
+}
+
+.descrição-texto3 {
+    background-color: #7C2CCC;
+    color: white;
+    display: block;
+    width: 25%;
+    align-items: center;
+    font-size: 19.2px;
+    margin: 16px 10px;
+}
+
