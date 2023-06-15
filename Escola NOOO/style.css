@@ -22,19 +22,19 @@ body {
 
 .cabeçalho-lista-item {
     display: inline-flex;
-    margin: 0 103px;
-    font-size: 40px;
-    padding: 53px 0;
+    margin: 0 0;
+    font-size: 41px;
+    padding: 53px 105px;
     background-color: #E17426;
 }
 
-.descrição {
+.tela-inicial {
     background-color: #7C2CCC;
     color: white;
-    display: block;
+    display: grid;
     width: 17.5%;
     align-items: center;
-    font-size: 19.2px;
+    font-size: 21px;
     margin: 100px 10px;
 }
 
@@ -43,3 +43,17 @@ body {
     padding: 0 0;
 }
 
+.texto-rodapé {
+    color: white;
+    font-size: 20px;
+    background-color: #E17426;
+    text-align: center;
+}
+
+.texto-lista {
+    display: grid;
+}
+
+#imgpos {
+    position: absolute; right 1000px; top
+}
